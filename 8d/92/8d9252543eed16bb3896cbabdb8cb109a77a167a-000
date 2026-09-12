@@ -1,0 +1,96 @@
+{
+  "params": {
+    "cue_seconds": 3,
+    "subtitle_color": "#edc853",
+    "subtitle_font": "/Users/zenray/Library/Fonts/InterVariable.ttf",
+    "subtitle_weight": 600,
+    "title_font": "/Users/zenray/Library/Fonts/AnthropicSans-SemiBoldItalic.ttf",
+    "title_pill_bg": "#ffffff",
+    "title_text_color": "#000000",
+    "title": "THE VESTIBULE",
+    "cue_layout": "two_lines"
+  },
+  "total_seconds": 30,
+  "cues": [
+    {
+      "index": 1,
+      "start": 0,
+      "end": 3,
+      "l1": "Today I continued developing",
+      "l2": "my procedural Louisiana bayou church in Houdini.",
+      "text": "Today I continued developing\nmy procedural Louisiana bayou church in Houdini."
+    },
+    {
+      "index": 2,
+      "start": 3,
+      "end": 6,
+      "l1": "I added an asymmetrical entrance vestibule",
+      "l2": "on the porch landing, above the stairs.",
+      "text": "I added an asymmetrical entrance vestibule\non the porch landing, above the stairs."
+    },
+    {
+      "index": 3,
+      "start": 6,
+      "end": 9,
+      "l1": "The vestibule is one procedural HDA.",
+      "l2": "Roof, siding, transom and floor share one network.",
+      "text": "The vestibule is one procedural HDA.\nRoof, siding, transom and floor share one network."
+    },
+    {
+      "index": 4,
+      "start": 9,
+      "end": 12,
+      "l1": "Change one master dimension,",
+      "l2": "and the whole entrance follows.",
+      "text": "Change one master dimension,\nand the whole entrance follows."
+    },
+    {
+      "index": 5,
+      "start": 12,
+      "end": 15,
+      "l1": "I also started a Copernicus workflow",
+      "l2": "for procedural materials, inspired by Substance Designer.",
+      "text": "I also started a Copernicus workflow\nfor procedural materials, inspired by Substance Designer."
+    },
+    {
+      "index": 6,
+      "start": 15,
+      "end": 18,
+      "l1": "Its advantage is staying",
+      "l2": "inside the same software.",
+      "text": "Its advantage is staying\ninside the same software."
+    },
+    {
+      "index": 7,
+      "start": 18,
+      "end": 21,
+      "l1": "I will test over time",
+      "l2": "how far Copernicus can go.",
+      "text": "I will test over time\nhow far Copernicus can go."
+    },
+    {
+      "index": 8,
+      "start": 21,
+      "end": 24,
+      "l1": "Across my existing components,",
+      "l2": "I mapped the material tags.",
+      "text": "Across my existing components,\nI mapped the material tags."
+    },
+    {
+      "index": 9,
+      "start": 24,
+      "end": 27,
+      "l1": "Four materials match the concept art",
+      "l2": "and references: painted wood, exposed wood, cedar shingles, window wood.",
+      "text": "Four materials match the concept art\nand references: painted wood, exposed wood, cedar shingles, window wood."
+    },
+    {
+      "index": 10,
+      "start": 27,
+      "end": 30,
+      "l1": "15,585 primitives now carry those IDs.",
+      "l2": "The first Copernicus graph is running; Karma XPU is next.",
+      "text": "15,585 primitives now carry those IDs.\nThe first Copernicus graph is running; Karma XPU is next."
+    }
+  ]
+}
